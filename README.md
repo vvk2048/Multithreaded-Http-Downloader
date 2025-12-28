@@ -124,6 +124,8 @@ Result:
     sys     0.98s
     CPU     ~1%
 
+<img width="1600" height="202" alt="image" src="https://github.com/user-attachments/assets/969c894d-0f10-47c8-8116-5699edf31de8" />
+
 ------------------------------------------------------------------------
 
 ## Correctness Verification
